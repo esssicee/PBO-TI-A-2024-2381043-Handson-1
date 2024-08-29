@@ -1,14 +1,14 @@
 public class buatVariable {
     public static void main(String[] args) {
-        string name;// deklarasi
+        String name;// deklarasi
         name = "Jeremy panjaitan";
 
-        string showinfo = "Nama saya " + name;
+        String showinfo = "Nama saya " + name;
 
         //variable nama benda
         //nama variable pakai camel case
 
-        string UniversitasAdventIndonesia;
+        String UniversitasAdventIndonesia;
 
         int gospel = 10;
 

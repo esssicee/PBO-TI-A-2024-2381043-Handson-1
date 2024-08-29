@@ -4,10 +4,10 @@ public class TipeDataCharacter {
         char i = 'i';
         char n = 'n';
         char d = 'd';
-        system.out.println(c);
-        system.out.println(i);
-        system.out.println(n);
-        system.out.println(d);
+        System.out.println(c);
+        System.out.println(i);
+        System.out.println(n);
+        System.out.println(d);
 
     }
 }
